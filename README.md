@@ -81,8 +81,10 @@ This project helped practice:
 
 ---
 
-## Author
+#Author
 
 Hassan  
-Frontend Developer (Beginner Level)  
+Frontend Developer (Beginner Level)
 Learning HTML, CSS, and JavaScript
+
+
